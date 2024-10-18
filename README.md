@@ -1,4 +1,5 @@
-#Tienda de libros
+#TiendaLibros
+
 App en la que el usuario podrá ver la disponibilidad de libros en la tienda, añadir nuevos libros, modificar los ya existentes y elminar libros.
 
 En este ejercicio para la capa de presentación utilizaremos Swing, para la capa de servicio utilizaremos Spring y para la capa de datos utilizaremos Jpa con Hibernate.
